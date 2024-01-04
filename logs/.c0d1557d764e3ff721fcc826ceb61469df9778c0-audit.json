@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/vidhikataria/Documents/Projects/gluestack/random-next/logs/.c0d1557d764e3ff721fcc826ceb61469df9778c0-audit.json",
+    "files": [
+        {
+            "date": 1704368219974,
+            "name": "/Users/vidhikataria/Documents/Projects/gluestack/random-next/logs/error-2024-01-04.log",
+            "hash": "e1c312698705059d3b83bc9226b026df"
+        }
+    ]
+}
